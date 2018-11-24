@@ -4,30 +4,30 @@ Solar charger controller. Student project created at Gymnasio Vamou.
 
 ΥΛΙΚΑ:
 
-1. Arduino Nano   7,50€ 
-2. P-MOSFET (IRF 9540 x 2 τεμ.)   1,20€ x 2 = 2,40 € 
-3. Power diode (MBR 2045 for 10A   and   IN5402 for 2A)  ? 
-4. Buck Converter   or Voltage Regulator (LM7805)   1,22 € 
-5. Temperature Sensor (LM35)   1,50 €  
-6.Current Sensor 4,05 €   
-7.TVS diode ( Amazon / P6KE36CA)   ?   
-8.Transistors ( 2N3904 or 2N2222)  ?  
-9.Resistors( 100k x 2, 20k x 2,10k x 2,1k x 2, 330ohm x 5) ?  
-10.Ceramic Capacitors (0.1uF x 2) ?		   
-11. Electrolytic Capacitors ( 100uF and 10uF) ?    
-12. 20x4 I2C LCD 9,90 €    
-13. RGB LED ( Amazon / ebay)  0,20 €    
-14. Bi Color LED ( Amazon ) ?    
-15. Jumper Wires/Wires  3,50€    
-16.Header Pins (Male,Female and right angle)  1€    
-17.Heat Sink 2,30 €    
-18.Fuse Holder and fuses ( Amazon / eBay) ?    
-19.Push Button ( Amazon )  
-20. Perforated Board   2,48€  
-21. Project Enclosure  
-22. Screw terminals ( 3x 2pin and 1x6 pin) ?  
-23. Nuts/Screws/Bolts  ?  
-24. Plastic Base   ?  
-25. SOLAR PANEL   ΕΧΟΥΜΕ  
+Arduino Nano   7,50€ 
+P-MOSFET (IRF 9540 x 2 τεμ.)   1,20€ x 2 = 2,40 € 
+Power diode (MBR 2045 for 10A   and   IN5402 for 2A)  ? 
+Buck Converter   or Voltage Regulator (LM7805)   1,22 € 
+Temperature Sensor (LM35)   1,50 €  
+Current Sensor 4,05 €   
+TVS diode ( Amazon / P6KE36CA)   ?   
+Transistors ( 2N3904 or 2N2222)  ?  
+Resistors( 100k x 2, 20k x 2,10k x 2,1k x 2, 330ohm x 5) ?  
+Ceramic Capacitors (0.1uF x 2) ?		   
+Electrolytic Capacitors ( 100uF and 10uF) ?    
+20x4 I2C LCD 9,90 €    
+RGB LED ( Amazon / ebay)  0,20 €    
+Bi Color LED ( Amazon ) ?    
+Jumper Wires/Wires  3,50€    
+Header Pins (Male,Female and right angle)  1€    
+Heat Sink 2,30 €    
+Fuse Holder and fuses ( Amazon / eBay) ?    
+Push Button ( Amazon )  
+Perforated Board   2,48€  
+Project Enclosure  
+Screw terminals ( 3x 2pin and 1x6 pin) ?  
+Nuts/Screws/Bolts  ?  
+Plastic Base   ?  
+SOLAR PANEL   ΕΧΟΥΜΕ  
 
 Προϋπολογισμός παραπάνω υλικών περίπου  35 - 40€ 
