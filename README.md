@@ -31,4 +31,3 @@ Solar charger controller. Student project created at Gymnasio Vamou.
 25. SOLAR PANEL   ΕΧΟΥΜΕ  
 
 Προϋπολογισμός παραπάνω υλικών περίπου  35 - 40€ 
-
