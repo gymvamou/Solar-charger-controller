@@ -10,19 +10,19 @@ Power diode (MBR 2045 for 10A   and   IN5402 for 2A)  ?
 Buck Converter   or Voltage Regulator (LM7805)   1,22 €   
 Temperature Sensor (LM35)   1,50 €     
 Current Sensor 4,05 €      
-TVS diode ( Amazon / P6KE36CA)   ?   
+TVS diode    ?   
 Transistors ( 2N3904 or 2N2222)  ?  
 Resistors( 100k x 2, 20k x 2,10k x 2,1k x 2, 330ohm x 5) ?  
 Ceramic Capacitors (0.1uF x 2) ?		   
 Electrolytic Capacitors ( 100uF and 10uF) ?    
 20x4 I2C LCD 9,90 €    
-RGB LED ( Amazon / ebay)  0,20 €    
-Bi Color LED ( Amazon ) ?    
+RGB LED   0,20 €    
+Bi Color LED  0,80 €    
 Jumper Wires/Wires  3,50€    
 Header Pins (Male,Female and right angle)  1€    
 Heat Sink 2,30 €    
-Fuse Holder and fuses ( Amazon / eBay) ?    
-Push Button ( Amazon )  
+Fuse Holder and fuses  ?    
+Push Button 
 Perforated Board   2,48€  
 Project Enclosure  
 Screw terminals ( 3x 2pin and 1x6 pin) ?  
