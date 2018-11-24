@@ -4,7 +4,7 @@ Solar charger controller. Student project created at Gymnasio Vamou.
 
 ΥΛΙΚΑ:
 
-Arduino Nano   7,50€ 
+Arduino Nano   7,50€    
 P-MOSFET (IRF 9540 x 2 τεμ.)   1,20€ x 2 = 2,40 €   
 Power diode (MBR 2045 for 10A   and   IN5402 for 2A)  ?   
 Buck Converter   or Voltage Regulator (LM7805)   1,22 €   
